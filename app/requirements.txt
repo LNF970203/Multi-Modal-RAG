@@ -1,4 +1,4 @@
-clip==1.0
+git+https://github.com/openai/CLIP.git
 langchain==0.0.352
 openai==1.6.1
 pinecone-client==2.2.4
